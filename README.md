@@ -39,7 +39,10 @@ date: 2022.05.09
 > Back: Python,Django
 
 ---
+![상세페이지1](https://user-images.githubusercontent.com/100202039/169686300-68931015-f89b-42d3-94e0-79e8890b35ff.gif)
+![상세페이지2 (1)](https://user-images.githubusercontent.com/100202039/169686304-67037e83-c84a-493f-b759-ac933b36b4f5.gif)
 
+---
 ### :popcorn: 개인 작업 내용
 1. 백엔드와 데이터 통신을 통해 영화 상세 페이지 구현
 2. 탭 메뉴가 변할 때마다 해다 컴포넌트가 화면에 표현되도록 구현
