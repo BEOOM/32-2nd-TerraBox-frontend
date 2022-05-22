@@ -34,6 +34,7 @@ date: 2022.05.09
 ### 적용기술
 
 > Front: React, Styled Component
+> 
 > Back: Python,Django
 
 ---
